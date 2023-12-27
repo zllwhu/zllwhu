@@ -1,4 +1,4 @@
-### 👋 Hi! ![Visitor Count](https://profile-counter.glitch.me/zllwhu/count.svg)
+### 👋 Hi, My ![Visitor Count](https://profile-counter.glitch.me/zllwhu/count.svg) visitor!
 
 - I'm Zhao LuLu (a.k.a. Lucas, @zllwhu).
 
