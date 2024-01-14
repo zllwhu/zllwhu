@@ -16,7 +16,7 @@
 
 - QQ: 786616973
 
-- GitHub:[zllwhu](https://github.com/zllwhu)
+- Blog: [zllwhu.github.io](https://zllwhu.github.io)
 
 <!--
 **zllwhu/zllwhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
