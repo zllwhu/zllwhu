@@ -12,10 +12,6 @@
 
 - Email: [2023202210120@whu.edu.cn](2023202210120@whu.edu.cn)
 
-- WeChat: zllwhu
-
-- QQ: 786616973
-
 - Blog: [zllwhu.github.io](https://zllwhu.github.io)
 
 <!--
