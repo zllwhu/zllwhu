@@ -12,7 +12,9 @@
 
 - Email: [2023202210120@whu.edu.cn](2023202210120@whu.edu.cn)
 
+<!--
 - Blog: [zllwhu.github.io](https://zllwhu.github.io)
+-->
 
 <!--
 **zllwhu/zllwhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
