@@ -6,7 +6,7 @@
 
 - I am currently enrolled in [Cryptography and Blockchain Technology Laboratory](http://blockchain.whu.edu.cn) at Wuhan University.
 
-- My research interest is blockchain privacy protection.
+- My research interest is identity privacy preserving with blockchains & * Amateur BBQ Appreciation *.
 
 ### 📫 You can contact me like this:
 
