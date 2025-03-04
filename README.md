@@ -6,11 +6,11 @@
 
 - I am currently enrolled in [Cryptography and Blockchain Technology Laboratory](http://blockchain.whu.edu.cn) at Wuhan University.
 
-- My research interest is identity privacy preserving with blockchains & **Amateur BBQ Appreciation**.
+- My research interest is identity privacy preserving in blockchains payment channel hubs.
 
 ### 📫 You can contact me like this:
 
-- Email: [2023202210120@whu.edu.cn](2023202210120@whu.edu.cn)
+- Email: [zllwhu@163.com](zllwhu@163.com)
 
 <!--
 - Blog: [zllwhu.github.io](https://zllwhu.github.io)
