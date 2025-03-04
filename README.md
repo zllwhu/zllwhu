@@ -8,7 +8,7 @@
 
 - My research interest is identity privacy preserving in blockchains payment channel hubs.
 
-### 📫 You can contact me like this:
+### 📫 You can contact me at:
 
 - Email: [zllwhu@163.com](zllwhu@163.com)
 
